@@ -1,5 +1,5 @@
 # Object-Detection using OpenCV
-This repository contains code to perform object detection using a pre-trained deep learning model with OpenCV's dnn module. It reads a video file, detects objects, and draws bounding boxes with labels around detected objects. The project also computes the frame-per-second (FPS) value to show real-time detection performance.
+This repository contains code for object detection using a pre-trained deep learning model with OpenCV's dnn module. It reads a video file, detects objects, and draws bounding boxes with labels around detected objects. The project also computes the frame-per-second (FPS) value to show real-time detection performance.
 
 ## Features 
 - Object detection using deep learning with OpenCV's DNN module.
@@ -11,6 +11,7 @@ This repository contains code to perform object detection using a pre-trained de
 1 Clone the repository:
 
   git clone https://github.com/Yukti007/Object-Detection.git
+  
 2 Install the required dependencies:
 
   pip install opencv-python opencv-python-headless numpy
