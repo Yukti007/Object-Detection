@@ -9,11 +9,14 @@ This repository contains code to perform object detection using a pre-trained de
 - Customizable model, configuration, and class file paths.
 ## Installation
 1 Clone the repository:
+
   git clone https://github.com/Yukti007/Object-Detection.git
 2 Install the required dependencies:
+
   pip install opencv-python opencv-python-headless numpy
   
 3 Ensure you have the following files:
+
 
 - Pre-trained Model (e.g., .weights or .caffemodel)
 - Model Configuration (e.g., .cfg file)
